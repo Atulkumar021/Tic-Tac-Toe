@@ -1,0 +1,21 @@
+.resetbtn{
+    width: 150px;
+    height: 44px;
+    border: none;
+    border-radius: 0.5rem;
+    background-color: #1F4172;
+    color: white;
+    font-size: 1rem;
+    margin: 2rem auto;
+    cursor: pointer;
+}
+.btncontainer{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.allbtns{
+    width: 20rem;
+    display: flex;
+}
